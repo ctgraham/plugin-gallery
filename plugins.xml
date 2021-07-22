@@ -4690,7 +4690,7 @@
 			<description>Settings for text alignment added</description>
 		</release>
 	</plugin>
-	<plugin category="gateways" product="swordServer">
+	<plugin category="gateways" product="swordserver">
 		<name locale="en_US">Sword Server Plugin</name>
 		<homepage>https://github.com/quoideneuf/swordServer</homepage>
 		<summary locale="en_US">Permits the use of the SWORD protocol to receive deposits from other applications.</summary>
